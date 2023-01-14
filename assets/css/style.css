@@ -32,6 +32,8 @@ main {
     border: 1px lightgray dashed;
     width: 30%;
     margin: 20px auto;
+    display: flexbox;
+    min-height: 100%;
 }
 
 .subheader {
